@@ -1,0 +1,27 @@
+{
+	"name": "config-mapper-env",
+	"description": "Maps configuration from config module files to environment variables.",
+	"version": "1.0.0",
+	"homepage": "https://github.com/MartinKolarik/config-loader-env/",
+	"github": "https://github.com/MartinKolarik/config-loader-env/",
+	"main": "index.js",
+	"keywords": [
+		"config"
+	],
+	"author": {
+		"name": "Martin Kolárik",
+		"email": "martin@kolarik.sk",
+		"url": "https://kolarik.sk"
+	},
+	"license": "MIT",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/MartinKolarik/config-loader-env.git"
+	},
+	"bugs": {
+		"url": "https://github.com/MartinKolarik/config-loader-env/issues/"
+	},
+	"dependencies": {
+		"lodash": "^4.17.4"
+	}
+}
