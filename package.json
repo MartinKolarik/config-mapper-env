@@ -22,6 +22,6 @@
 		"url": "https://github.com/MartinKolarik/config-mapper-env/issues/"
 	},
 	"dependencies": {
-		"lodash": "^4.17.4"
+		"lodash": "^4.17.21"
 	}
 }
