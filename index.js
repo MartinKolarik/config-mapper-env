@@ -10,7 +10,10 @@ module.exports = function map (object, types = true, prefix = '') {
 				console.warn(`Warning: Mapping individual array items to environment variables is not supported. You may override the whole array via ${key} or use an object with numeric keys instead.`);
 			}
 
-			return key;
+			return {
+				__name: key,
+				__format: 'json',
+			};
 		}
 
 		// nested object
