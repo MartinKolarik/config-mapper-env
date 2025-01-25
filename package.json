@@ -1,7 +1,7 @@
 {
 	"name": "config-mapper-env",
 	"description": "Maps configuration from config module files to environment variables.",
-	"version": "3.0.0",
+	"version": "3.0.1",
 	"homepage": "https://github.com/MartinKolarik/config-mapper-env/",
 	"github": "https://github.com/MartinKolarik/config-mapper-env/",
 	"main": "index.js",
